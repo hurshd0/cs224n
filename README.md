@@ -3,7 +3,10 @@
 Self-study on Stanford's CS 224n, Winter 2019, here you will find coursework lecture notes,
 completed assignments and extra resource links.
 
+> NOTE: Solutions are ungraded so no guarantee they are correct. 
+
 ---
+
 
 ### Lecture 1 - Introduction and Word Vectors 
 
@@ -25,4 +28,4 @@ completed assignments and extra resource links.
 All slides, notes, assignments, and provided code scaffolds are owned by Stanford University.
 
 ## Acknowlegements
-Special thanks to Stanford and Professor Chris Manning for making this great resources online and free to the public. No access to autograder, thus no guarantee that the solutions are correct.
+Special thanks to Stanford and Professor Chris Manning for making this great resources online and free to the public. 
