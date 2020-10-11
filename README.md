@@ -1,11 +1,11 @@
-# Stanford CS 224n Natural Language Processing with Deep Learning - (Winter 2019)
+## Stanford CS 224n Natural Language Processing with Deep Learning - (Winter 2019)
 
 Self-study on Stanford's CS 224n, Winter 2019, here you will find coursework lecture notes,
 completed assignments and extra resource links.
 
 ---
 
-# Lecture 1 - Introduction and Word Vectors 
+### Lecture 1 - Introduction and Word Vectors 
 
 1. Watch
    - [Introduction and Word Vectors](https://youtu.be/8rXD5-xhemo)
@@ -21,8 +21,8 @@ completed assignments and extra resource links.
 5. Notes
    - [word2vec1](notes/notes01.pdf)
 
-# LICENSE
+## LICENSE
 All slides, notes, assignments, and provided code scaffolds are owned by Stanford University.
 
-# Acknowlegements
+## Acknowlegements
 Special thanks to Stanford and Professor Chris Manning for making this great resources online and free to the public. No access to autograder, thus no guarantee that the solutions are correct.
